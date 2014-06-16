@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Wittawas Wisarnkanchana"]
   spec.email         = ["start@wittawasw.com"]
   spec.summary       = %q{Rails helper for Zopim live chat script.}
-  spec.description   = %q{Rails helper for Zopim live chat script.}
-  spec.homepage      = ""
+  spec.description   = %q{Rails helper for Zopim live chat.}
+  spec.homepage      = "https://github.com/wittawasw/zopim_rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
@@ -19,5 +19,5 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_development_dependency "bundler", "~> 1.5"
-  spec.add_development_dependency "rake"
+  spec.add_development_dependency 'rake', '~> 0'
 end

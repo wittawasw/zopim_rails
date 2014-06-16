@@ -24,11 +24,11 @@ place your API key in application.rb
 
 place render method where you want in view.
 
-    <%= ZompimRails.init %>
+    <%= zopim_init %>
 
 ## Contributing
 
-1. Fork it ( http://github.com/wittawasw/zopim_rails/fork )
+1. Fork it ( https://github.com/wittawasw/zopim_rails/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
