@@ -1,6 +1,6 @@
 # ZopimRails
 
-Rails simple helper for Zopim live chat script
+Rails simple helper for [Zopim](https://www.zopim.com/) live chat script
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-place your API key in application.rb
+Create file `zopim.rb` in `config/initialize/zopim.rb` and add
 
     ZopimRails.api_key = "<your-api-key>"
 
