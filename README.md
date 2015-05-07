@@ -1,6 +1,7 @@
 # ZopimRails
 
-Rails simple helper for [Zopim](https://www.zopim.com/) live chat script
+Rails simple helper for [Zopim](https://www.zopim.com/) live chat script.
+Now support turbolink with help from [luizpicolo](https://github.com/luizpicolo).
 
 ## Installation
 
