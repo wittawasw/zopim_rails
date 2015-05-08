@@ -9,10 +9,6 @@ module ZopimRails::Rails
 
     def zopim_init
 
-      unless ZopimRails.valid_api_key?
-        raise ArgumentError, "API key for Zopim chat is missing."
-      end
-
       queue = ZopimRails::Chatbox.new
       queue.render_script.html_safe
       
