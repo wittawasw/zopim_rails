@@ -21,7 +21,9 @@ Or install it yourself as:
 
 Create file `zopim.rb` in `config/initialize/zopim.rb` and add
 
-    ZopimRails.api_key = "<your-api-key>"
+    ZopimRails.configure do |config|
+      config.api_key = 'replace-me-with-your-api_key'
+    end
 
 place render method where you want in view.
 
