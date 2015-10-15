@@ -1,3 +1,5 @@
+require_relative 'version'
+
 module ZopimRails
   class << self
     attr_accessor :configuration
@@ -10,8 +12,10 @@ module ZopimRails
 
   class Configuration
     attr_accessor :api_key
+    attr_reader :version
 
     def initialize
+      @version = VERSION
       @api_key = 'replace-me-with-api_key'
     end
   end
