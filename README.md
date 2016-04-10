@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-Create file `zopim.rb` in `config/initialize/zopim.rb` and add
+Create file `zopim.rb` in `config/initializers/zopim.rb` and add
 
     ZopimRails.configure do |config|
       config.api_key = 'replace-me-with-your-api_key'
