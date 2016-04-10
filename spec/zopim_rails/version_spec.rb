@@ -5,6 +5,6 @@ describe ZopimRails do
 
   it "should return version correctly" do
     expect(ZopimRails::VERSION).to be_a_kind_of(String)
-    expect(ZopimRails::VERSION).to eq '0.0.7'
+    expect(ZopimRails::VERSION).to eq '0.0.8'
   end
 end
