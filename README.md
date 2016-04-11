@@ -1,4 +1,5 @@
 # ZopimRails
+[![Gem Version](https://badge.fury.io/rb/zopim_rails.svg)](https://badge.fury.io/rb/zopim_rails)
 [![Build Status](https://travis-ci.org/wittawasw/zopim_rails.svg?branch=master)](https://travis-ci.org/wittawasw/zopim_rails)
 
 Rails simple helper for [Zopim](https://www.zopim.com/) live chat script.
