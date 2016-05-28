@@ -9,7 +9,9 @@ Now support turbolink with help from [luizpicolo](https://github.com/luizpicolo)
 
 Add this line to your application's Gemfile:
 
-    gem 'zopim_rails'
+```ruby
+gem 'zopim_rails'
+```
 
 And then execute:
 
