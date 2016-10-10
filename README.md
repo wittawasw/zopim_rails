@@ -2,8 +2,9 @@
 [![Gem Version](https://badge.fury.io/rb/zopim_rails.svg)](https://badge.fury.io/rb/zopim_rails)
 [![Build Status](https://travis-ci.org/wittawasw/zopim_rails.svg?branch=master)](https://travis-ci.org/wittawasw/zopim_rails)
 
-Rails simple helper for [Zopim](https://www.zopim.com/) live chat script.
-Now support turbolink with help from [luizpicolo](https://github.com/luizpicolo).
+Rails simple helper for [Zopim](https://www.zopim.com/) live chat script.    
+Now support turbolink 2.5.3+ with help from [Contributing](https://github.com/wittawasw/zopim_rails/graphs/contributors)
+
 
 ## Installation
 

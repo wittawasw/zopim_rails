@@ -1,3 +1,3 @@
 module ZopimRails
-  VERSION = "0.0.8"
+  VERSION = "1.9.0"
 end
