@@ -2,7 +2,6 @@ require 'spec_helper'
 require_relative '../../lib/zopim_rails/chatbox'
 
 describe ZopimRails::Chatbox do
-
   before do
     ZopimRails.configure do |config|
       config.api_key = 'replace-me-with-your-api_key'

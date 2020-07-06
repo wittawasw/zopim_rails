@@ -1,5 +1,4 @@
 # coding: utf-8
-
 require 'zopim_rails/rails/view_helpers'
 
 module ZopimRails::Rails
