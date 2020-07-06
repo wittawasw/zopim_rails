@@ -1,5 +1,4 @@
 # coding: utf-8
-
 module ZopimRails
   class Chatbox
     def render_script
